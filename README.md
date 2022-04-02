@@ -19,6 +19,9 @@ docker pull sebasforero/locacionesfrontend:v1
 docker-compose up
 
 5. Esperar a que se ejecuten las imagenes docker completamente
+(En caso de no funcionar, parar el contenedor con ctrl c 
+en la consola, luego volverver a ejecutar el comndo 
+docker-compose up)
 
 6. En el navegador web ingresar la url:
 http://localhost:4200/ 
