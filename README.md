@@ -15,6 +15,7 @@ docker pull sebasforero/locacionesfrontend:v1
 3. Colocar el archivo docker-compose.yml en la misma ruta en la que se esta ejecutando la consola
 
 4. En la consola de comandos, ejecutar la siguiente linea:
+
 docker-compose up
 
 5. Esperar a que se ejecuten las imagenes docker completamente
